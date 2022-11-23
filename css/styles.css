@@ -39,10 +39,16 @@ strong {
     right: 100px;
 }
 
+.position-two {
+    position: absolute;
+    bottom: 10px;
+    right: 100px;
+}
+
 .border-green {
     border: 1px solid #C7D83A;
 }
 
 .about-titles {
-    font-size: 26px;
+    font-size: 22px;
 }
